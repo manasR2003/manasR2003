@@ -1,5 +1,5 @@
 
-![logo](https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif)
+![logo](https://th.bing.com/th/id/OIP.HwiOPphm3oNe8PjPgWtisAHaEK?w=1366&h=768&rs=1&pid=ImgDetMain)
 <h1 align="center">Hi 👋, I'm Manas Ranjan Hota</h1>
 <h3 align="center">A passionate Python Full Stack developer from India</h3>
 
