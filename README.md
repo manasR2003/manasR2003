@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Manas Ranjan Hota</h1>
 <h3 align="center">A passionate Python Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.kZKLQD4RKJLbGP7eVuRb6gHaHh?w=1200&h=1218&rs=1&pid=ImgDetMain">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasr2003&label=Profile%20views&color=0e75b6&style=flat" alt="manasr2003" /> </p>
 
 - 🌱 I’m currently learning **Django,SQL**
