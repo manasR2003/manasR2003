@@ -6,9 +6,9 @@
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.kZKLQD4RKJLbGP7eVuRb6gHaHh?w=1200&h=1218&rs=1&pid=ImgDetMain">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasr2003&label=Profile%20views&color=0e75b6&style=flat" alt="manasr2003" /> </p>
 
-- 🌱 I’m currently learning **Django,SQL**
+- 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **Python. Web Technology, SQL**
+- 💬 Ask me about **Python. Web Technology, SQL,Django**
 
 - 📫 How to reach me **manasranjanhota39@gmail.com**
 
