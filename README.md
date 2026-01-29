@@ -1,4 +1,3 @@
-
 ![logo]([https://th.bing.com/th/id/OIP.HwiOPphm3oNe8PjPgWtisAHaEK?w=1366&h=768&rs=1&pid=ImgDetMain](https://tse1.mm.bing.net/th/id/OIP.4nuv1KYtam4_pPLtQEHAKQHaFE?rs=1&pid=ImgDetMain&o=7&rm=3))
 <h1 align="center">Hi 👋, I'm Manas Ranjan Hota</h1>
 <h3 align="center">A passionate Python Full Stack developer from India</h3>
@@ -10,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **Python. Web Technology, SQL,Django**
+- 💬 Ask me about **Python. Web Technology, SQL,Django,Numpy,Pandas**
 
 - 📫 How to reach me **manasranjanhota39@gmail.com**
 
