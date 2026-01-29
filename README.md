@@ -26,4 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manasr2003" alt="manasr2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasr2003&" alt="manasr2003" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=manasr2003" alt="manasr2003" /></p>
+
