@@ -26,7 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manasr2003" alt="manasr2003" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manasr2003)
+![GitHub Streak](https://streak-stats.demolab.com/?user=manasr2003&theme=default)
+
 
 
 
