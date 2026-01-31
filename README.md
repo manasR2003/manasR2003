@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 💬 Ask me about **Python. Web Technology, SQL,Django,Numpy,Pandas**
+- 💬 Ask me about **Python. Web Technology, SQL,Django,Numpy,Matplotlib,Pandas**
 
 - 📫 How to reach me **manasranjanhota39@gmail.com**
 
