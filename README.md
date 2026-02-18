@@ -7,7 +7,7 @@
 
 - Doing an Internship at ADRASTI TECHNOLOGY PRIVATE LIMITED as an internship trainee.
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Power BI**
 
 - 💬 Ask me about **Python. Web Technology, SQL,Django,Numpy,Matplotlib,Pandas**
 
