@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **Python. Web Technology, SQL,Django,Numpy,Matplotlib,Pandas**
+- 💬 Ask me about **Python, HTML5, CSS3, Javascript, Bootstrap, SQL, Django, Numpy, Matplotlib, Pandas**
 
 - 📫 How to reach me **manasranjanhota39@gmail.com**
 
