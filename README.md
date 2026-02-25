@@ -14,9 +14,9 @@
 - 📫 How to reach me **manasranjanhota39@gmail.com**
 - Phone : +91 9090674428
 <h4>Specific Fun Quotes</h4>
-<h5>Life is short. Use Python</h5>
-<h5>Keep calm and import pandas</h5>
-<h5>In a world full of semicolons, be Python</h5>
+<h5>  Life is short. Use Python</h5>
+<h5>  Keep calm and import pandas</h5>
+<h5>  In a world full of semicolons, be Python</h5>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/manas-ranjan-hota-889623309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/manas-ranjan-hota-889623309" height="30" width="40" /></a>
