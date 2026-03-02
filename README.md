@@ -45,7 +45,7 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasr2003&show_icons=true&locale=en&layout=compact" alt="manasr2003" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manasr2003" alt="manasr2003" /></p>
 
