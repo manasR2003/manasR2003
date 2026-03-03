@@ -42,13 +42,8 @@
        width="40"
        height="40"/>
 </a>
-
- </p>
-
-
-
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manasr2003" alt="manasr2003" /></p>
-
 <img src="https://streak-stats.demolab.com/?user=manasr2003" alt="GitHub Streak" />
 
 
